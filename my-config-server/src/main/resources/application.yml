@@ -5,5 +5,5 @@ spring:
     config:
       server:
         git:
-          uri: https://git.oschina.net/gongxusheng/spring-config-demo.git
+          uri: https://github.com/yangyunyun1012/springCloud.git
           searchPaths: my-sample-config
